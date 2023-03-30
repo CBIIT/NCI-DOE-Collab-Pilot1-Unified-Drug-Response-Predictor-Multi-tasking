@@ -1,4 +1,4 @@
-name: UnoMT
+name: UNOMT
 channels:
   - defaults
   - conda-forge
