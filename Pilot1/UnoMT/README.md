@@ -44,6 +44,8 @@ The default network structure is shown below:
 An example of the program output for training on NCI60 and valdiation on all other data sources is shown below:
 ```
 python unoMT_baseline_pytorch.py --resp_val_start_epoch 2 --epochs 5
+```
+```
 Importing candle utils for pytorch
 Created unoMT benchmark
 Configuration file: ./unoMT_default_model.txt
