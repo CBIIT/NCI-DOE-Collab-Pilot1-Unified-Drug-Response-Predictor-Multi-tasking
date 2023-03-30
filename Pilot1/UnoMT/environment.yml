@@ -17,3 +17,4 @@ dependencies:
   - numpy=1.19.5 
   - astropy=4.1
   - patsy=0.5.3
+  - statsmodels=0.12.2
