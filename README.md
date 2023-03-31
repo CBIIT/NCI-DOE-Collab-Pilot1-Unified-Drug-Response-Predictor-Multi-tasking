@@ -15,10 +15,6 @@ The community can use a neural network and multiple machine learning techniques 
 
 ### Components
 The following components are in the Model and Data Clearinghouse (MoDaC):
-* The [Unified Drug Response Predictor Multi-tasking (UnoMT)]() asset contains the untrained model and trained model:
-  * The model topology file is uno.model.json. ####<--- insert topology file name ####
-  * The trained model is defined by combining the untrained model () and model weights ().####<--- insert topology file name ####
-  * The trained model is used in inference.
 * The [Pilot 1 Cancer Drug Response Prediction Multi-tasking Dataset](https://modac.cancer.gov/searchTab?dme_data_id=NCI-DME-MS01-8088592) asset contains the processed training and test data. 
 
 ### Technical Details
